@@ -1,1 +1,1 @@
-# paika.github.io
+# paika
